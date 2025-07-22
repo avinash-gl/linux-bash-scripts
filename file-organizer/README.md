@@ -8,17 +8,17 @@ This is a simple Bash script that automatically sort files in a directory based 
 
 Organizes Files into Specific Locations 
 
-- '.jpg' '.png' into Images/
-- '.txt' into TextFiles/
-- '.zip' '.tar.gz' into Archives/
-- '.pdf' into PDFs/
+- `.jpg` `.png` into Images/
+- `.txt` into TextFiles/
+- `.zip` `.tar.gz` into Archives/
+- `.pdf` into PDFs/
 - Other files go into Others/
-- Creates a Folder automatically if it Doesn't Exist
+- Creates a Folder automatically if it doesn't exist
 
  ---
 
 ## Usage
-1. Clone Repository 
+1. Clone the Repository 
 
 ```bash
 git clone https://github.com/avinash-gl/file-organizer.git
@@ -31,4 +31,4 @@ cd file-organizer
 chmod +x /path/to/script/
 ```
 
-3. Run the Script and Follow the Instructions
+3. Run the Script and Follow the Instructions.
